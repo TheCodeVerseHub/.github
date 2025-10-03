@@ -1,7 +1,7 @@
 # The CodeVerse Hub
 
 Welcome to **The CodeVerse Hub**, the official GitHub organization of our community.  
-We are a vibrant coding hub open to developers of all skill levels — from beginners taking their first steps in programming to experts working on advanced projects.  
+We are a vibrant coding hub open to developers of all skill levels.... from beginners taking their first steps in programming to experts working on advanced projects.  
 
 Our mission is simple: **Connect. Learn. Build. Grow Together.**
 
@@ -28,7 +28,7 @@ Our mission is simple: **Connect. Learn. Build. Grow Together.**
 
 ## Get Involved
 We believe in building a strong community by sharing knowledge and collaborating on projects.  
-Whether you want to learn, teach, or contribute — there is a place for you here.
+Whether you want to learn, teach, or contribute there is a place for you here.
 
 - Explore our repositories for projects and resources  
 - Open issues or pull requests to collaborate  
