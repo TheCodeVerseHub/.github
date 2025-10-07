@@ -6,7 +6,7 @@ We are a vibrant coding hub open to developers of all skill levels.... from begi
 Our mission is simple: **Connect. Learn. Build. Grow Together.**
 
 ---
-
+.
 ## What We Offer
 - Weekly coding events, challenges, and occasional giveaways  
 - Dedicated help for all your programming questions  
