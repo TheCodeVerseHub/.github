@@ -1,4 +1,4 @@
-# The CodeVerse Hub
+# The CodeVerse Hub.
 
 Welcome to **The CodeVerse Hub**, the official GitHub organization of our community.  
 We are a vibrant coding hub open to developers of all skill levels.... from beginners taking their first steps in programming to experts working on advanced projects.  
