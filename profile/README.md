@@ -6,7 +6,6 @@ We are a vibrant coding hub open to developers of all skill levels.... from begi
 Our mission is simple: **Connect. Learn. Build. Grow Together.**
 
 ---
-.
 ## What We Offer
 - Weekly coding events, challenges, and occasional giveaways  
 - Dedicated help for all your programming questions  
@@ -37,7 +36,7 @@ Whether you want to learn, teach, or contribute there is a place for you here.
 ---
 
 ## Useful Links
-- **Community Website**: [Visit Here](https://codeverse-k4dm.onrender.com/)  
+- **Community Website**: [Visit Here](https://codeversehub.netlify.app/)  
 - **Discord Server**: [Join The CodeVerse Hub](https://discord.gg/3xKFvKhuGR)  
 
 ---
