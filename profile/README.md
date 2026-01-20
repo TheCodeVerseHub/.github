@@ -36,7 +36,7 @@ Whether you want to learn, teach, or contribute there is a place for you here.
 ---
 
 ## Useful Links
-- **Community Website**: [Visit Here](https://codeversehub.netlify.app/)  
+- **Community Website**: UNDER DEVELOPMENT  
 - **Discord Server**: [Join The CodeVerse Hub](https://discord.gg/3xKFvKhuGR)  
 
 ---
