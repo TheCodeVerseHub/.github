@@ -1,9 +1,16 @@
-# The CodeVerse Hub.
+<p align="center">
+  <h2 align="center">The Codverse Hub</h2>
+  <p align="center">
 
 Welcome to **The CodeVerse Hub**, the official GitHub organization of our community.  
 We are a vibrant coding hub open to developers of all skill levels.... from beginners taking their first steps in programming to experts working on advanced projects.  
 
 Our mission is simple: **Connect. Learn. Build. Grow Together.**
+<p align="center">
+    <a href="https://discord.gg/the-codeverse-hub-1263067254153805905">
+      <img src="https://invidget.switchblade.xyz/3xKFvKhuGR?theme=dark" />
+    </a>
+</p>
 
 ---
 ## What We Offer
