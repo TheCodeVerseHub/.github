@@ -48,4 +48,52 @@ Whether you want to learn, teach, or contribute there is a place for you here.
 
 ---
 
+<p align="center">
+  <h2 align="center"> Contributors </h2>
+  <p align="center">
+    Huge shoutout to our <strong>active</strong> contributors so far ❤️
+  </p>
+</p>
+<p align="center">
+  <a href="https://github.com/youngcoder45">
+    <img src="https://avatars.githubusercontent.com/youngcoder45" width="60" height="60" alt="calebephrem"/>
+  </a>
+  <a href="https://github.com/1Frodox">
+    <img src="https://avatars.githubusercontent.com/1Frodox" width="60" height="60" alt="mesygir"/>
+  </a>
+  <a href="https://github.com/hachimamma">
+    <img src="https://avatars.githubusercontent.com/hachimamma" width="60" height="60" alt="mesygir"/>
+  </a>
+  <a href="https://github.com/ritesh-2008">
+    <img src="https://avatars.githubusercontent.com/ritesh-2008" width="60" height="60" alt="mesygir"/>
+  </a>
+  <a href="https://github.com/rokybeast">
+    <img src="https://avatars.githubusercontent.com/rokybeast" width="60" height="60" alt="mesygir"/>
+  </a>
+  <a href="https://github.com/AdityaKodez">
+    <img src="https://avatars.githubusercontent.com/AdityaKodez" width="60" height="60" alt="mesygir"/>
+  </a>
+  </a>
+  <a href="https://github.com/CosmicPredator">
+    <img src="https://avatars.githubusercontent.com/CosmicPredator" width="60" height="60" alt="mesygir"/>
+  </a>
+  </a>
+  <a href="https://github.com/Phoenix-skull">
+    <img src="https://avatars.githubusercontent.com/Phoenix-skull" width="60" height="60" alt="mesygir"/>
+  </a>
+  <a href="https://github.com/calebephrem">
+    <img src="https://avatars.githubusercontent.com/calebephrem" width="60" height="60" alt="mesygir"/>
+  </a>
+  <a href="https://github.com/Chaosraph">
+    <img src="https://avatars.githubusercontent.com/Chaosraph" width="60" height="60" alt="louiszn"/>
+  </a>
+  <a href="https://github.com/HyScript7">
+    <img src="https://avatars.githubusercontent.com/HyScript7" width="60" height="60" alt="imiakk"/>
+  </a>
+  <a href="https://github.com/MHashir09">
+    <img src="https://avatars.githubusercontent.com/MHashir09" width="60" height="60" alt="FerasMo7ammad"/>
+  </a>
+</p>
+
+
 ### Together, we create an environment where everyone can grow and contribute to the world of technology.
