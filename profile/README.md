@@ -13,7 +13,10 @@ Our mission is simple: **Connect. Learn. Build. Grow Together.**
 </p>
 
 ---
-## What We Offer
+<p align="center">
+  <h2 align="center">What We Offer</h2>
+  <p align="center">
+
 - Weekly coding events, challenges, and occasional giveaways  
 - Dedicated help for all your programming questions  
 - Discussions on operating systems, networking, databases, hosting, and frameworks  
@@ -23,7 +26,10 @@ Our mission is simple: **Connect. Learn. Build. Grow Together.**
 
 ---
 
-## Topics We Explore
+<p align="center">
+  <h2 align="center">Topics We Explore</h2>
+  <p align="center">
+
 - **Programming Languages**: Python, Java, C, C++, JavaScript, TypeScript, Go, Rust, Swift, Kotlin, Ruby, PHP, R, Pascal, MATLAB, Dart, Scala, Haskell, Perl, Shell  
 - **Web Development**: HTML, CSS, SQL, frameworks, and modern libraries  
 - **Computer Science**: Data Structures & Algorithms (DSA), operating systems, databases, networking concepts  
@@ -32,7 +38,10 @@ Our mission is simple: **Connect. Learn. Build. Grow Together.**
 
 ---
 
-## Get Involved
+<p align="center">
+  <h2 align="center">Get Involved</h2>
+  <p align="center">
+
 We believe in building a strong community by sharing knowledge and collaborating on projects.  
 Whether you want to learn, teach, or contribute there is a place for you here.
 
@@ -42,7 +51,10 @@ Whether you want to learn, teach, or contribute there is a place for you here.
 
 ---
 
-## Useful Links
+<p align="center">
+  <h2 align="center">Useful Links</h2>
+  <p align="center">
+
 - **Community Website**: UNDER DEVELOPMENT  
 - **Discord Server**: [Join The CodeVerse Hub](https://discord.gg/3xKFvKhuGR)  
 
@@ -96,4 +108,4 @@ Whether you want to learn, teach, or contribute there is a place for you here.
 </p>
 
 
-### Together, we create an environment where everyone can grow and contribute to the world of technology.
+ Together, we create an environment where everyone can grow and contribute to the world of technology.
