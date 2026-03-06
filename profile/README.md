@@ -55,8 +55,9 @@ Whether you want to learn, teach, or contribute there is a place for you here.
   <h2 align="center">Useful Links</h2>
   <p align="center">
 
-- **Community Website**: UNDER DEVELOPMENT  
-- **Discord Server**: [Join The CodeVerse Hub](https://discord.gg/3xKFvKhuGR)  
+- **Community Website**: [TheCodeversehub.tech](https://thecodeversehub.tech)
+- **Discord Server**: [Join The CodeVerse Hub](https://discord.gg/3xKFvKhuGR)
+- ** Email **: [contact@thecodeversehub.tech](mailto:contact@thecodeversehub.tech)
 
 ---
 
