@@ -57,7 +57,7 @@ Whether you want to learn, teach, or contribute there is a place for you here.
 
 - **Community Website**: [TheCodeversehub.tech](https://thecodeversehub.tech)
 - **Discord Server**: [Join The CodeVerse Hub](https://discord.gg/3xKFvKhuGR)
-- ** Email **: [contact@thecodeversehub.tech](mailto:contact@thecodeversehub.tech)
+- **Email**: [contact@thecodeversehub.tech](mailto:contact@thecodeversehub.tech)
 
 ---
 
