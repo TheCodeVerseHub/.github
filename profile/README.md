@@ -102,6 +102,9 @@ Whether you want to learn, teach, or contribute there is a place for you here.
   <a href="https://github.com/HyScript7">
     <img src="https://avatars.githubusercontent.com/HyScript7" width="60" height="60" alt="imiakk"/>
   </a>
+  <a href="https://github.com/aaravmaloo">
+    <img src="https://avatars.githubusercontent.com/aaravmaloo" width="60" height="60" alt="imiakk"/>
+  </a>
   <a href="https://github.com/MHashir09">
     <img src="https://avatars.githubusercontent.com/MHashir09" width="60" height="60" alt="FerasMo7ammad"/>
   </a>
