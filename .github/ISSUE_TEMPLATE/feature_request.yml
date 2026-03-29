@@ -1,0 +1,57 @@
+name: Feature request
+description: Propose a new feature or improvement
+title: "[Feature]: "
+labels: [enhancement]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for proposing an improvement.
+        Good feature requests explain the problem, the users impacted, and a reasonable scope.
+
+  - type: input
+    id: repo
+    attributes:
+      label: Target repository
+      placeholder: e.g. Eigen-Bot / CodeVerseLinuxDistro / CodeverseHubWebsite
+    validations:
+      required: false
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem statement
+      description: What problem are you trying to solve?
+      placeholder: As a <user>, I want <goal> so that <benefit>.
+    validations:
+      required: true
+
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed solution
+      description: What should we build? Include UX or command examples where relevant.
+      placeholder: |
+        - Add ...
+        - Change ...
+    validations:
+      required: true
+
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives considered
+      description: Any other approaches you considered?
+    validations:
+      required: false
+
+  - type: textarea
+    id: scope
+    attributes:
+      label: Scope / acceptance criteria
+      description: What does “done” look like?
+      placeholder: |
+        - [ ] ...
+        - [ ] ...
+    validations:
+      required: true

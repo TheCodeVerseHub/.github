@@ -1,0 +1,75 @@
+name: Bug report
+description: Report something that is broken or not working
+title: "[Bug]: "
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to report a bug.
+
+        Please remove any secrets (tokens, cookies, API keys) from logs and screenshots.
+
+  - type: input
+    id: repo
+    attributes:
+      label: Affected repository
+      description: Which repo is impacted? (If you’re already in the repo, you can leave this blank.)
+      placeholder: e.g. Eigen-Bot / CodeVerseLinuxDistro / CodeverseHubWebsite
+    validations:
+      required: false
+
+  - type: textarea
+    id: summary
+    attributes:
+      label: Summary
+      description: What happened?
+      placeholder: A clear, one-paragraph description.
+    validations:
+      required: true
+
+  - type: textarea
+    id: repro
+    attributes:
+      label: Steps to reproduce
+      description: Exact steps so we can reproduce.
+      placeholder: |
+        1. ...
+        2. ...
+        3. ...
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behavior
+      placeholder: What did you expect to happen?
+    validations:
+      required: true
+
+  - type: textarea
+    id: actual
+    attributes:
+      label: Actual behavior
+      placeholder: What actually happened?
+    validations:
+      required: true
+
+  - type: textarea
+    id: logs
+    attributes:
+      label: Logs / screenshots
+      description: Paste logs or attach screenshots (redact secrets).
+      render: shell
+    validations:
+      required: false
+
+  - type: input
+    id: environment
+    attributes:
+      label: Environment
+      description: OS / version / runtime (Python/Node/Rust) / Discord.py version etc.
+      placeholder: e.g. Ubuntu 24.04, Python 3.12, discord.py 2.4
+    validations:
+      required: false
